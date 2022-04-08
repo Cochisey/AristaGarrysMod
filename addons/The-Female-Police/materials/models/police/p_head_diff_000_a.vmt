@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\police/p_head_diff_000_a"
+	"$halflambert" 1
+}

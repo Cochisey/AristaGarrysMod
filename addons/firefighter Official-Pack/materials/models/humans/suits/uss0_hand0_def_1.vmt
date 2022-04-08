@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\humans\suits/uss0_hand0_def_1"
+	"$bumpmap" "models\humans\suits/uss0_hand0_def_nrm"
+
+	"$phong" "1"
+	"$phongexponent" 11
+	"$phongboost" ".05"
+	"$phongfresnelranges"	"[5 6 8]"
+	"$PhongAlbedoTint" "1"
+	"$phongexponenttexture" "models\humans\suits/uss0_hand0_def_exp"
+	"$lightwarptexture" 	"models\humans\suits/Clothes_wrp"
+	$halflambert 1
+	$nocull 1
+}

@@ -1,0 +1,119 @@
+{
+  "projectName": "xAdmin",
+  "projectOwner": "TheXYZNetwork",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "owainjones74",
+      "name": "Owain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15251181?v=4",
+      "profile": "https://0wain.xyz/",
+      "contributions": [
+        "code",
+        "maintenance",
+        "plugin"
+      ]
+    },
+    {
+      "login": "JakeButterfield",
+      "name": "Jake Butterfield",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12650145?v=4",
+      "profile": "http://jakebutterfield.co.uk/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "DrPepperG",
+      "name": "Dr.Pepper",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17168168?v=4",
+      "profile": "https://jcra.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Livaco",
+      "name": "Livaco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15859232?v=4",
+      "profile": "https://www.livaco.dev/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ExtReMLapin",
+      "name": "ExtReMLapin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3909752?v=4",
+      "profile": "https://github.com/ExtReMLapin",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "realpack",
+      "name": "pack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19867624?v=4",
+      "profile": "https://github.com/realpack",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MilkGames",
+      "name": "MilkGames",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10010026?v=4",
+      "profile": "https://github.com/MilkGames",
+      "contributions": [
+        "code",
+        "maintenance",
+        "plugin"
+      ]
+    },
+    {
+      "login": "cl3dev",
+      "name": "Luke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28488690?v=4",
+      "profile": "https://github.com/cl3dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "NoSharp",
+      "name": "Harry Kerr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33969918?v=4",
+      "profile": "https://nosharp.cc/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "liondadev",
+      "name": "Lion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59421259?v=4",
+      "profile": "https://github.com/liondadev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kierancrossley",
+      "name": "kieran crossley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47427240?v=4",
+      "profile": "https://steamcommunity.com/id/kieraann/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}

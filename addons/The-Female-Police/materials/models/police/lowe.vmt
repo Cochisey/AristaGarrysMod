@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\police\lowe"
+	"$bumpmap" "models\police/lowe_normal"
+	"$halflambert" "1"
+
+}

@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\police/korintailnew02"
+	"$halflambert" 1
+//	"$model" 2
+}

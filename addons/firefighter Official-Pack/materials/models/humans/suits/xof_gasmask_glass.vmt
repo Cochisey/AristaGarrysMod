@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans\suits/Xof_Gasmask_Glass"
+	"$bumpmap"    "models\humans\suits/Xof_Gasmask_Glass_N"
+	"$translucent"	"1"
+	"$ambientocclusion"	"0"
+	
+	"$phongexponent" "33"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongexponenttexture" "models\humans\suits/green"
+	"$lightwarptexture" 	"models\humans\suits/Clothes_wrp"
+}
+
+

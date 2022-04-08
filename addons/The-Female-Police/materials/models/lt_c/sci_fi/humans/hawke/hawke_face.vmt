@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\lt_c\sci_fi\humans\hawke\hawke_face"
+	$bumpmap "models\lt_c\sci_fi\humans\hawke\hawke_face_n"
+
+	$halflambert 1
+
+	$phong 1
+	$phongboost .3
+	$phongexponent 5
+	$phongtint "[1 .85 .85]"
+	$phongfresnelranges "[.5 .85 10]"
+
+	"$detail"		"Models\LT_C\sci_fi\humans\shared/Detail_Skin"
+	$detailscale 5
+	$detailblendfactor 0.5
+}

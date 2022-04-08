@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans\suits/Xof_Gear_D"
+	"$bumpmap"    "models\humans\suits/Xof_Gear_N"
+	
+	"$phongexponent" "13"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"0.9"
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongexponenttexture" "models\humans\suits/green"
+	"$lightwarptexture" 	"models\humans\suits/Clothes_wrp"
+}
+
+

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\police\top_2"
+	"$bumpmap" "models\police/top_normal"
+		"$blendTintByBaseAlpha"	"1"
+	$normalmapalphaenvmapmask 1
+						
+	"$envmaptint" "[ .01 .01 .01 ]"					
+ 	"$envmapFresnel" "5 7 8"	
+
+
+	"$phong" "1"						
+	"$phongboost"	"0.05"
+
+
+	"$detail" "models\police\detail_cloth"
+	$detailscale 30
+	$detailblendfactor 1
+	$detailblendmode 0
+	$nocull 1
+
+}

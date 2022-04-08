@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\police/rank_03"
+                "$alphatest" 1
+}

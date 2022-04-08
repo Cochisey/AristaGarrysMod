@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\lt_c\sci_fi\humans\hawke\hawke_eyelashes"
+	$ambientocclusion 0	
+	$translucent 1
+	$nocull	1
+}
